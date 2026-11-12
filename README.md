@@ -17,7 +17,6 @@ Slack holds the conversation and its evolving evidence. Linear holds the structu
 ## Final deliverables
 
 - [`output/keeping-a-platform-alive.pdf`](output/keeping-a-platform-alive.pdf) — final 14-slide deck, exported from Canva.
-- [`Keeping a Platform Alive Speaker Guide.docx`](Keeping%20a%20Platform%20Alive%20Speaker%20Guide.docx) — bilingual Portuguese and English talk track.
 - [`slides.md`](slides.md) — final slide-by-slide plan and timing.
 - [`speaker-notes.md`](speaker-notes.md) — concise presenter notes and narrative anchors.
 - [`assets/README.md`](assets/README.md) — capture and redaction rules for supporting evidence.
