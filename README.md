@@ -17,8 +17,7 @@ Slack holds the conversation and its evolving evidence. Linear holds the structu
 ## Final deliverables
 
 - [`output/keeping-a-platform-alive.pdf`](output/keeping-a-platform-alive.pdf) — final 14-slide deck, exported from Canva.
-- [`slides.md`](slides.md) — final slide-by-slide plan and timing.
-- [`speaker-notes.md`](speaker-notes.md) — concise presenter notes and narrative anchors.
+- [`from-report-to-resolution.docx`](from-report-to-resolution.docx) — article describing the report-to-resolution operating loop.
 - [`assets/README.md`](assets/README.md) — capture and redaction rules for supporting evidence.
 
 ## Canonical design
